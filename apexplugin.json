@@ -17,17 +17,17 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/plug-ins-pro/ig_download_file_pro"
+    "url" : "https://github.com/plug-ins-pro/gantt_chart_pro"
   },
  "oracle" : {
-    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x"],
+    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x", "21.x"],
     "apex" : {
-      "versions" : ["19.2.0", "20.1.0"],
+      "versions" : ["19.2.0", "20.1.0", "20.2.0"],
       "plugin" : {
         "internalName" : "UNITEDCODES_GANTT",
         "type" : "region",
         "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/gantt_chart_pro/home",
-        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/581/files/static/v41/united_codes_gantt-1.gif"
+        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/581/files/static/v6/united_codes_gantt-1.gif"
       }
     }
   }
