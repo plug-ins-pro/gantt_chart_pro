@@ -1,6 +1,6 @@
 {
   "name" : "Gantt Chart Pro",
-  "version" : "21.1",
+  "version" : "22.1",
   "description" : "With Gantt Chart Pro, you can plan and track tasks, evaluate the current state of a project, and even manage your tasks directly from the chart. It's easy to visualize your project in a way that makes sense to you by using custom styles, changing toolbar options, and even your own colors. It's even easy to link Gantt charts by tasks or events to get a deeper analysis of your data.",
   "keywords" : ["gantt","chart"],
   "homepage" : "https://www.plug-ins-pro.com/",
@@ -20,9 +20,9 @@
     "url" : "https://github.com/plug-ins-pro/gantt_chart_pro"
   },
  "oracle" : {
-    "versions" : ["11.2.0.1", "12.x", "18.x", "19.x", "21.x"],
+    "versions" : ["12.x", "18.x", "19.x", "21.x"],
     "apex" : {
-      "versions" : ["19.2.0", "20.1.0", "20.2.0"],
+      "versions" : ["19.2.0", "20.1.0", "20.2.0", "21.1.0", "21.2.0", "22.1.0", "22.2.0"],
       "plugin" : {
         "internalName" : "UNITEDCODES_GANTT",
         "type" : "region",
