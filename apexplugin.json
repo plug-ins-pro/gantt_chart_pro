@@ -26,8 +26,8 @@
         "plugin" : {
           "internalName" : "UNITEDCODES_GANTT",
           "type" : "region",
-          "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/gantt_chart_pro/home",
-          "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/581/files/static/v6/united_codes_gantt-1.gif"
+          "demo" : "https://www.united-codes.com/ords/pluginspro_web/r/gantt_chart_pro/home",
+          "previewImage" : "https://www.united-codes.com/ords/pluginspro_web/r/581/files/static/v6/united_codes_gantt-1.gif"
         }
       }
     }
