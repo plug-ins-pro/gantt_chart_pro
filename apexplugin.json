@@ -1,6 +1,6 @@
 {
     "name" : "Gantt Chart Pro",
-    "version" : "24.2",
+    "version" : "24.3",
     "description" : "With Gantt Chart Pro, you can plan and track tasks, evaluate the current state of a project, and even manage your tasks directly from the chart. It's easy to visualize your project in a way that makes sense to you by using custom styles, changing toolbar options, and even your own colors. It's even easy to link Gantt charts by tasks or events to get a deeper analysis of your data.",
     "keywords" : ["gantt","chart"],
     "homepage" : "https://www.plug-ins-pro.com/",
@@ -38,7 +38,8 @@
          "21.2.0",
          "22.1.0",
          "23.1.0",
-         "23.2.0"
+         "23.2.0",
+         "24.1.0"
       ],
         "plugin" : {
           "internalName" : "UNITEDCODES_GANTT",
