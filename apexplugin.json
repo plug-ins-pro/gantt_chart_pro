@@ -1,9 +1,9 @@
 {
     "name" : "Gantt Chart Pro",
-    "version" : "24.3",
+    "version" : "25.1",
     "description" : "With Gantt Chart Pro, you can plan and track tasks, evaluate the current state of a project, and even manage your tasks directly from the chart. It's easy to visualize your project in a way that makes sense to you by using custom styles, changing toolbar options, and even your own colors. It's even easy to link Gantt charts by tasks or events to get a deeper analysis of your data.",
     "keywords" : ["gantt","chart"],
-    "homepage" : "https://www.plug-ins-pro.com/",
+    "homepage" : "https://www.united-codes.com/products/plug-ins-pro/",
     "bugs" : {
       "url" : "https://github.com/plug-ins-pro/gantt_chart_pro/issues",
       "email": "info@plug-ins-pro.com"
@@ -13,7 +13,7 @@
     "author": {
       "name": "United Codes",
       "email": "info@plug-ins-pro.com",
-      "url": "https://www.plug-ins-pro.com/",
+      "url": "https://www.united-codes.com/products/plug-ins-pro/",
       "twitter": "@Plug_ins_Pro"
    },
     "repository" : {
@@ -39,12 +39,13 @@
          "22.1.0",
          "23.1.0",
          "23.2.0",
-         "24.1.0"
+         "24.1.0",
+         "24.2.0"
       ],
         "plugin" : {
           "internalName" : "UNITEDCODES_GANTT",
           "type" : "region",
-          "demo" : "https://apex.apexrnd.com/ords/r/pip_prd/gantt_chart_pro/",
+          "demo" : "https://www.united-codes.com/ords/r/pip/gantt_chart_pro/",
           "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/581/files/static/v6/united_codes_gantt-1.gif"
         }
       }
